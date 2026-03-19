@@ -1,5 +1,5 @@
 # DevTrails
-**Requiremtnt Detail:**
+**Requirement Detail:**
 
 Scenario 1: Environmental Issue
 Heavy rains hit a part of chennai and the roads are under a foot of water. naturally, it is too dangerous for a bike to pass through. Considering the rider misses around 5 hours of work during the busy dinner time, we make sure that the software notes the rainfall data for that specific pincode and pays the rider for those hours automatically.
