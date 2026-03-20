@@ -145,7 +145,7 @@ We chose a **web-based platform** for Phase 1 because:
 
 ## **🌐 Live Prototype**
 
-🔗 **https://v0-gig-guard.vercel.app** 
+🔗 **https://gigguard.lovable.app/** 
 
 
 ## **🎯 Vision**
